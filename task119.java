@@ -2,7 +2,7 @@
  * task119
  */
 import java.util.Scanner;
-public class task119 {
+public class Task119 {
 
     public static void main(String[] args) {
         Scanner obj1 = new Scanner(System.in);
